@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679113138688",
+    "project_id": "dompushnotifs",
+    "storage_bucket": "dompushnotifs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679113138688:android:0821a9401b55ff10d8eee5",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2TimtzfFhk_EqOR1PmnkgXg0H9KqaTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
